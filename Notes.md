@@ -1,13 +1,13 @@
 - [ ] Section 4: Types in JavaScript 00/12 | 1hr 9min
-	- [ ] 54. Section Overview | 1min
-	- [ ] 55. Javascript Types | 14min
-	- [ ] 56. Array.isArray() | 2min
-	- [ ] 57. Pass By Value vs Pass By Reference | 17min
-	- [ ] 58. Exercise: Compare Objects | 1min
-	- [ ] 59. Exercise: Pass By Reference | 1min
-	- [ ] 60. Type Coercion | 9min
-	- [ ] 61. Exercise: Type Coercion | 1min
-	- [ ] 62. Quick Note: Upcoming Videos | 1min
-	- [ ] 63. JTS: Dynamic vs Static Typing | 12min
-	- [ ] 64. JTS: Weakly vs Strongly Typed | 3min
-	- [ ] 65. JTS: Static Typing In JavaScript | 10min
+	- [ ] 54 04-01 0122 Section Overview
+	- [ ] 55 04-02 1340 Javascript Types
+	- [ ] 56 04-03 0217 Array.isArray()
+	- [ ] 57 04-04 1706 Pass By Value vs Pass By Reference
+	- [ ] 58 04-00 0015 Exercise-Compare Objects
+	- [ ] 59 04-00 0003 Exercise-Pass By Reference
+	- [ ] 60 04-07 0902 Type Coercion
+	- [ ] 61 04-00 0007 Exercise-Type Coercion
+	- [ ] 62 04-00 0011 Quick Note-Upcoming Videos
+	- [ ] 63 04-10 1150 JTS-Dynamic vs Static Typing
+	- [ ] 64 04-11 0318 JTS-Weakly vs Strongly Typed
+	- [ ] 65 04-12 0945 JTS-Static Typing In JavaScript
