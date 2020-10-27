@@ -39,6 +39,18 @@
 		- A non-primitive type (variable) doesn't contain actual the value directly.
 		  - It has a reference/pointer to the value
 			- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
+		- Why do we have things like 'Boolean', 'Number', 'String'? Aren't those primitives?
+		- The primitives have "Object Wrappers"
+
+		```javascript
+		true.toString() // 'true', the string
+
+		// JavaScript silently provides a wrapper object
+		Boolean(true).toString()
+		```
+
+		- typeof Math - 'object'
+		- typeof Infinity - 'number'
 	- [ ] 56 04-03 0217 Array.isArray()
 	- [ ] 57 04-04 1706 Pass By Value vs Pass By Reference
 	- [ ] 58 04-00 0015 Exercise-Compare Objects
