@@ -1,5 +1,8 @@
 - [ ] Section 4: Types in JavaScript 00/12 | 1hr 9min
 	- [ ] 54 04-01 0122 Section Overview
+	  - All programming languages have Types, that is, the building blocks that allow us to write in that language
+	    - Dynamically Typed
+	    - Statically Typed
 	- [ ] 55 04-02 1340 Javascript Types
 	- [ ] 56 04-03 0217 Array.isArray()
 	- [ ] 57 04-04 1706 Pass By Value vs Pass By Reference
