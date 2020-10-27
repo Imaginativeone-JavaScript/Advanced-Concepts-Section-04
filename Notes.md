@@ -4,6 +4,41 @@
 	    - Dynamically Typed
 	    - Statically Typed
 	- [ ] 55 04-02 1340 Javascript Types
+	  - 5
+		- true
+		- 'To be or not to be'
+		- undefined
+		- null
+		- Symbol('just me')
+		- {}
+		- What about arrays or functions?
+		- typeof 5 - 'number'
+		- typeof true - 'boolean'
+		- typeof 'To be or not to be' - 'string'
+		- typeof undefined - 'undefined', the absence of a definition
+		- typeof null - 'object', the absence of a value
+		  - This is actually a mistake
+			- https://twitter.com/BrendanEich/status/1271995509985538048
+		- typeof Symbol('just me') - 'symbol'
+		- typeof {} - 'object'
+		- typeof [] - 'object'
+		- typeof function() {} - 'function'; However, arrays and functions are objects
+
+		```javascript
+		function a() {
+			return 5;
+		}
+
+		a.hi = 'Hi';
+
+		console.log(a.hi);
+		```
+
+		- What's the difference between the primitive types and the non-primitive types?
+		  - Single value, atoms
+		- A non-primitive type (variable) doesn't contain actual the value directly.
+		  - It has a reference/pointer to the value
+			- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 	- [ ] 56 04-03 0217 Array.isArray()
 	- [ ] 57 04-04 1706 Pass By Value vs Pass By Reference
 	- [ ] 58 04-00 0015 Exercise-Compare Objects
